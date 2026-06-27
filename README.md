@@ -1,4 +1,3 @@
-
 # Spaceow
 
 Spaceow is a space shooter, where you should shoot meteors and destroy them, if you collide with them you will lose.
