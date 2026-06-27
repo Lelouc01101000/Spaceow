@@ -1,4 +1,5 @@
 # Spaceow
+** PLAYTEST AT: ** https://lelouc01101000.itch.io/spaceow 
 
 Spaceow is a space shooter, where you should shoot meteors and destroy them, if you collide with them you will lose.
 game uses art referencing Shimeji Simulation, to which obsticles used have thematic connection, backgrounds used are directly art from it.
