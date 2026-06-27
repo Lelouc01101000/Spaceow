@@ -16,6 +16,7 @@ obsticle pngs where free assets modified by me.
 **M** for Main Menu
 
 
+
 ## Requirments
 
 **LÖVE2D** and **Lua**
@@ -26,6 +27,18 @@ game can be run by moving the game folder onto the LÖVE2D application icon or b
 cd path/to/your/game/folder
 love .
 ```
+
+## Executable and web zip
+Game was tested on Mac os device
+**spaceow.love** is zip of every file and folder besides web-build, file which had .zip changed to .love, because of .love extension when clicked it will just open the game.
+
+**web-build** folder was created by running following commands
+```bash
+npm install -g love.js
+npx love.js -t "Spaceow" -c spaceow.love web-build
+```
+where spaceow.love can also be .zip and is just file mentioned beforehand. **spaceowItchio.zip** is zip of everything in web-build, its a file which can be uploaded on websites which host online games.
+
 ## UI 
 Game starts in **Main Menu**, where you can select difficulties, for each difficulty there is unique Highest Score and Best Time displayed.
 
